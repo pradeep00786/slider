@@ -1,0 +1,13 @@
+.home_slider {width:100%;position: relative;top:14px;margin:0 0 10px 0;}
+.slider-desc{width:60%;  position:absolute; top:320px; left:50px; color:white; background:#333; z-index:999}
+.slider-desc h2{ text-transform:uppercase; margin-left:10px; margin-bottom:5px;}
+.slider-desc p{font:bold 14px Roboto,sans-serif; margin-left:10px; margin-top:5px;}
+.home_slider h5 {overflow: hidden;width:960px; height:405px;float: left; margin:0;}
+.home_slider h5 img{width:100%}
+.home_slider h5 span {position: absolute;width: 640px;height: 40px;line-height: 60px;padding: 5px;background: url(images/subtitle_bg.png) repeat;	color: #fff;z-index: 99999;bottom: 0px;font: bold 20px Mangal;}		
+.home_slider h5 span a{ text-decoration:none; color:#FFFFFF;}
+.home_slider h5 span a:hover{ text-decoration:underline; color:#FFFFFF;}
+.belt_outer {height:400px;overflow: hidden;width: 100%;}
+.belt {margin-top: -18px;overflow: hidden;position: relative;height: 400px;width:960px;	}
+.shprevarrow{background: url(images/left.png) no-repeat scroll left top rgba(0, 0, 0, 0);display: block;float: left; height: 61px;    margin-right: 10px;    margin-top: 20px;    position: absolute;    text-indent: -9999px;    top: 130px;    width: 39px;}
+.shnextarrow {    background: url(images/right.png) no-repeat scroll left top rgba(0, 0, 0, 0);    display: block;    float: right;    height: 61px;    text-indent: -9999px;    width: 39px;	position:absolute;	top:150px;	right:0px;	}
